@@ -1,0 +1,5 @@
+pais = input("Cual es tu pais de origen: ")
+continente = input("Cual es tu continente: ")
+print(f"Ya veo que eres del pais {pais} y del continente {continente}")
+print(type(pais))
+print(type(continente))
